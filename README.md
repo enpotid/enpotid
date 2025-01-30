@@ -29,10 +29,6 @@ fn panic(_info: &PanicInfo) -> ! {
 }
 ```
 
-<p align='center'>
-    <img            src="https://streak-stats.demolab.com?user=owo404&theme=dark&hide_current_streak=true&hide_longest_streak=true"/>
-</p>
-
 # Skills
 ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
