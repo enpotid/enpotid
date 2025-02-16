@@ -27,6 +27,8 @@ fn panic(_info: &PanicInfo) -> ! {
 }
 ```
 
+[![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=enpotid)](https://solved.ac/enpotid)
+
 # Skills
 ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
