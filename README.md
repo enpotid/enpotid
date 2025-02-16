@@ -27,8 +27,6 @@ fn panic(_info: &PanicInfo) -> ! {
 }
 ```
 
-[![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=enpotid)](https://solved.ac/profile/enpotid)
-
 # Skills
 ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,3 +38,5 @@ fn panic(_info: &PanicInfo) -> ! {
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![pg](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
+# Baekjoon
+[![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=enpotid)](https://solved.ac/profile/enpotid)
