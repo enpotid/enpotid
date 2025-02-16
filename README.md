@@ -1,5 +1,6 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sbmbau2z3vmv6j7ovwcrftbeze&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31sbmbau2z3vmv6j7ovwcrftbeze&redirect=true)
 
+
 ```
 #![no_std]
 #![no_main]
@@ -27,7 +28,8 @@ fn panic(_info: &PanicInfo) -> ! {
 }
 ```
 
-[![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=enpotid)](https://solved.ac/enpotid)
+
+[![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=enpotid)](https://solved.ac/profile/enpotid)
 
 # Skills
 ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
