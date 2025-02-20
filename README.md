@@ -28,7 +28,7 @@ fn panic(_info: &PanicInfo) -> ! {
 ```
 
 # Skills
-![rust](https://img.shields.io/badge/Rust?style=for-the-badge&logo=rust&logoColor=white)
+![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
