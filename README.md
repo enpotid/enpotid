@@ -35,8 +35,7 @@ fn panic(_info: &PanicInfo) -> ! {
 
 ![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
 ![zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
-![pg](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 # Baekjoon
 [![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=enpotid)](https://solved.ac/profile/enpotid)
