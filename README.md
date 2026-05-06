@@ -26,9 +26,3 @@ fn panic(_info: &PanicInfo) -> ! {
     loop {}
 }
 ```
-
-# Skills
-![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-# Baekjoon
-[![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=enpotid)](https://solved.ac/profile/enpotid)
